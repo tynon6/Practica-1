@@ -6,7 +6,7 @@
 * **Perla Santos Martinez**
 
 * **Unidad de Aprendizaje:** Teoría de la Computación
-* **Profesor:** [Nombre del Profesor]
+* **Profesor:** [Gabriel Hurtado Aviles]
 * **Fecha de entrega:** 22 de septiembre de 2026
 
 ---
