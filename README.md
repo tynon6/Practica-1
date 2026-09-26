@@ -19,5 +19,4 @@
 3. [Estado del arte: cinco artículos](docs/03-estado-del-arte.md)
 4. [Autómatas finitos en JFLAP](docs/04-jflap.md)
 5. [Aplicación con interfaz gráfica](docs/05-aplicacion.md)
-6. [Conclusiones](docs/conclusiones.md)
-7. [Bibliografía](docs/bibliografia.md)
+
