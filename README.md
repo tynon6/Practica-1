@@ -14,7 +14,7 @@
 ---
 
 ## Índice
-1. [Entorno de trabajo: control de versiones y contenedores](docs/01-entorno.md)
+1. [Entorno de trabajo: control de versiones y contenedores](docs/01-entorno.pdf)
 2. [Investigación: qué es la Teoría de la Computación](docs/02-investigacion.md)
 3. [Estado del arte: cinco artículos](docs/03-estado-del-arte.md)
 4. [Autómatas finitos en JFLAP](docs/04-jflap.md)
